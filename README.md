@@ -32,6 +32,12 @@ I've worked extensively across multiple domains of deep learning:
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahdi-Golizadeh&layout=compact&theme=radical&langs_count=6)
 
+### 📈 Activity Graph
+![Mahdi's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Mahdi-Golizadeh&theme=github)
+
+### 🏆 GitHub Trophies
+![trophy](https://github-profile-trophy.vercel.app/?username=Mahdi-Golizadeh&theme=onedark)
+
 ### 📚 Featured Projects
 
 #### [Diffusion Library](https://github.com/Mahdi-Golizadeh/DIFFUSION-DIFFUSER-LIB)
