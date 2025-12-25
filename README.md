@@ -28,7 +28,7 @@ I've worked extensively across multiple domains of deep learning:
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ### 📊 GitHub Stats
-![Mahdi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mahdi-Golizadeh&show_icons=true&theme=radical&hide_title=true)
+![Mahdi's GitHub Stats]([![trophy](https://github-profile-trophy.vercel.app/?username=Mahdi-Golizadeh)](https://github.com/Mahdi-Golizadeh/github-profile-trophy))
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahdi-Golizadeh&layout=compact&theme=radical&langs_count=6)
 
